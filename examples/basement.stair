@@ -1,0 +1,10 @@
+# Basement stair, 96 in floor-to-floor
+name: Basement stair
+total_rise: 96 in
+run_limit: 150 in
+stringers: 3
+tread_thickness: 1 in
+stringer_allowance: 6 in
+nosing: 3/4 in
+headroom: 82 in
+handrail_height: 36 in
